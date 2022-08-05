@@ -10,7 +10,7 @@ class Melisa extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Alper",
+      title: "Melisa",
       theme: ThemeData(primarySwatch: Colors.red),
       home: const MyHomePage(title: "salla"),
       //padding:EdgeInsets.all(20)
