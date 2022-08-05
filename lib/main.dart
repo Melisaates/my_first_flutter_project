@@ -11,7 +11,7 @@ class Melisa extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "Melisa",
-      theme: ThemeData(primarySwatch: Colors.amber),
+      theme: ThemeData(primarySwatch: Colors.red),
       home: const MyHomePage(title: "salla"),
       //padding:EdgeInsets.all(20)
     );
